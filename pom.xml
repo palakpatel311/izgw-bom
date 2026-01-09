@@ -73,7 +73,7 @@
         <repository>
             <id>github</id>
             <name>GitHub IZGateway Packages</name>
-            <url>https://maven.pkg.github.com/IZGateway/izgw-bom</url>
+            <url>https://maven.pkg.github.com/palakpatel311/izgw-bom</url>
         </repository>
     </distributionManagement>
     <repositories>
